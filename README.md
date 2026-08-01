@@ -30,7 +30,7 @@ Rock-Paper-Scissors/
 │
 ├── main.py
 ├── README.md
-└── LICENSE
+
 ```
 
 ---
