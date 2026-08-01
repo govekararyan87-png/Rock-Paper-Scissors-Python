@@ -1,76 +1,131 @@
-# 🎮 Rock, Paper, Scissors Game
+# 🎮 Rock, Paper, Scissors Game (Python)
 
-A simple command-line Rock, Paper, Scissors game built using Python.
+A simple command-line **Rock, Paper, Scissors** game built using **Python** where the player competes against the computer in **3 rounds**.
+
+---
 
 ## 📌 Features
 
-- User vs Computer
-- 3-round gameplay
-- Random computer choices
-- Input validation
-- Automatic score tracking
-- Final winner announcement
+- 🎮 User vs Computer gameplay
+- 🔀 Random computer moves using Python's `random` module
+- 📝 User-friendly input (`R`, `P`, `S`)
+- ✅ Input validation for invalid entries
+- 🏆 Best of 3 rounds
+- 📊 Automatic score tracking
+- 🎉 Final winner announcement
+
+---
 
 ## 🛠 Technologies Used
 
 - Python 3
 - Random Module
 
+---
+
+## 📂 Project Structure
+
+
+Rock-Paper-Scissors/
+│
+├── main.py
+├── README.md
+└── LICENSE
+
+
+
+
 ## 🚀 How to Run
 
-1. Clone the repository
+Clone the repository
 
-```bash
-git clone https://github.com/YourUsername/Rock-Paper-Scissors-Python.git
-```
+bash
+git clone https://github.com/YourUsername/Rock-Paper-Scissors.git
 
-2. Navigate to the project folder
 
-```bash
-cd Rock-Paper-Scissors-Python
-```
+Go inside the folder
 
-3. Run the game
+bash
+cd Rock-Paper-Scissors
 
-```bash
+
+Run the program
+
+bash
 python main.py
-```
 
-## 📸 Sample Output
 
-```text
+
+
+## 📷 Sample Output
+
+
 Let's Play Rock, Paper & Scissor
 
 Enter:
-r - Rock
-p - Paper
-s - Scissor
+r for choosing Rock
+p for choosing Paper
+s for choosing Scissor
 
-Enter your choice: r
-Your choice: Rock
-Computer choice: Paper
-You Lose!
-```
+Enter your choice: R
 
-## 📚 Concepts Used
+Your choice is Rock
+Computer choice is Rock
+
+Draw
+
+Enter your choice: P
+
+Your choice is Paper
+Computer choice is Rock
+
+You WON
+
+Enter your choice: S
+
+Your choice is Scissor
+Computer choice is Paper
+
+You WON
+
+Your Score is 2
+Computer's Score is 0
+
+You are the Winner
+
+
+
+
+## 🧠 Concepts Practiced
 
 - Functions
-- Loops
-- Conditional Statements
+- Loops (`for`)
+- Conditional Statements (`if-elif-else`)
 - Dictionaries
-- User Input
 - Random Module
+- User Input
+- Variables
 - Score Tracking
 - Input Validation
+- Problem Solving
+- Debugging
 
-## 🎯 Future Improvements
 
-- Best of 5 mode
-- GUI using Tkinter
-- Multiplayer mode
-- Sound effects
-- Score history
+
+## 📈 Future Improvements
+
+- 🔄 Play Again option
+- 🎯 Best of 5 / Best of 7 mode
+- 📊 Scoreboard History
+- 🎨 GUI using Tkinter or PyQt
+- 🌐 Multiplayer Mode
+- 🔊 Sound Effects
+- 🤖 Difficulty Levels
+
+
 
 ## 👨‍💻 Author
 
-Aryan Govekar
+**Aryan Govekar**
+
+If you liked this project, consider giving it a ⭐ on GitHub.
