@@ -25,41 +25,41 @@ A simple command-line **Rock, Paper, Scissors** game built using **Python** wher
 
 ## 📂 Project Structure
 
-
+```
 Rock-Paper-Scissors/
 │
 ├── main.py
 ├── README.md
 └── LICENSE
+```
 
-
-
+---
 
 ## 🚀 How to Run
 
 Clone the repository
 
-bash
+```bash
 git clone https://github.com/YourUsername/Rock-Paper-Scissors.git
-
+```
 
 Go inside the folder
 
-bash
+```bash
 cd Rock-Paper-Scissors
-
+```
 
 Run the program
 
-bash
+```bash
 python main.py
+```
 
-
-
+---
 
 ## 📷 Sample Output
 
-
+```
 Let's Play Rock, Paper & Scissor
 
 Enter:
@@ -92,9 +92,9 @@ Your Score is 2
 Computer's Score is 0
 
 You are the Winner
+```
 
-
-
+---
 
 ## 🧠 Concepts Practiced
 
@@ -110,7 +110,7 @@ You are the Winner
 - Problem Solving
 - Debugging
 
-
+---
 
 ## 📈 Future Improvements
 
@@ -122,7 +122,7 @@ You are the Winner
 - 🔊 Sound Effects
 - 🤖 Difficulty Levels
 
-
+---
 
 ## 👨‍💻 Author
 
