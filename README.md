@@ -40,7 +40,7 @@ Rock-Paper-Scissors/
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Rock-Paper-Scissors.git
+git clone https://github.com/govekararyan87-png/Rock-Paper-Scissors.git
 ```
 
 Go inside the folder
